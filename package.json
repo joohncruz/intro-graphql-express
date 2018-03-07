@@ -1,0 +1,18 @@
+{
+  "name": "graphql-express",
+  "version": "1.0.0",
+  "description": "POC using grahpql with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^1.3.2",
+    "express": "^4.16.2",
+    "graphql": "^0.13.1",
+    "graphql-tools": "^2.21.0"
+  }
+}
